@@ -1,9 +1,24 @@
-h1 {
+#titre1 {
+  padding-top: 15px;
+  min-width:50%;
+}
+
+#p1 {
+  color: red;
+}
+
+.cBlack {
+  background-color: rgb(116, 116, 116);
+}
+
+#titre2 {
   color: blue;
   background-color: yellow;
   border: 1px solid black;
 }
 
-p {
-  color: red;
+#divParente{
+  width: 90%;
+  float: left;
+  background-color: blue;
 }
