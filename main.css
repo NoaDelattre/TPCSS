@@ -54,3 +54,19 @@
   padding-top: 250px;
   min-width:50%;
 }
+
+#menuBas {
+  float: left;
+  width: 20%;
+  background-color: rgb(224, 41, 215);
+  padding: 10px;
+  height: 500px;
+}
+
+#titreMenuBas {
+  position: relative;
+  left: 125px;
+  font-size: large;
+  padding-top: 250px;
+  min-width:50%;
+}
