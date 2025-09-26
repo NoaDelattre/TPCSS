@@ -38,3 +38,19 @@
   padding-top: 15px;
   min-width:50%;
 }
+
+#menuHaut {
+  float: left;
+  width: 20%;
+  background-color: grey;
+  padding: 10px;
+  height: 500px;
+}
+
+#titreMenuHaut {
+  position: relative;
+  left: 125px;
+  font-size: large;
+  padding-top: 250px;
+  min-width:50%;
+}
