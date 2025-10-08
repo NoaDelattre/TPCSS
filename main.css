@@ -27,46 +27,56 @@
   float: left;
   width: 100%;
   background-color: cornflowerblue;
-  padding: 10px;
+  padding: 5px;
   height: 50px;
 }
 
-#titreBandeau {
+#titreBandeau{
   position: relative;
   left: 800px;
   font-size: xx-large;
   padding-top: 15px;
-  min-width:50%;
+  min-width: 50%;
 }
+
 
 #menuHaut {
   float: left;
   width: 20%;
   background-color: grey;
-  padding: 10px;
+  padding: 5px;
   height: 500px;
 }
 
-#titreMenuHaut {
+#titreMenuHaut{
   position: relative;
   left: 125px;
   font-size: large;
   padding-top: 250px;
-  min-width:50%;
+  min-width: 50%;
 }
+
 
 #menuBas {
   float: left;
   width: 20%;
   background-color: rgb(224, 41, 215);
-  padding: 10px;
+  padding: 5px;
   height: 500px;
 }
 
-#titreMenuBas {
+#titreMenuBas{
   position: relative;
   left: 125px;
   font-size: large;
   padding-top: 250px;
-  min-width:50%;
+  min-width: 50%;
+}
+
+#contenu{
+  float: right;
+  width: 80%;
+  background-color: yellow;
+  padding: 5px;
+  height: 1000px;
 }
