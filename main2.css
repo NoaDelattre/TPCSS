@@ -1,0 +1,40 @@
+div{
+    background-color: greenyellow;
+    float: left;
+}
+
+#MenuHaut{
+    width: 100%;
+    background-color: blue;
+    height: 200px;
+    float: left;
+}
+
+#Foot{
+    width: 100%;
+    background-color: green;
+    height: 300px;
+    float: left;
+}
+
+#Corps{
+    width: 100%;
+}
+
+.DivLongue{
+    width: 100%;
+}
+
+#SousMenuA{
+    background-color: purple;
+    width: 250px;
+    height: 500px;
+    float: left;
+}
+
+#SousMenuB{
+    background-color: rgb(199, 87, 199);
+    width: 250px;
+    height: 400px;
+    float: left;
+}
