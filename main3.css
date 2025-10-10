@@ -38,3 +38,10 @@ div{
     height: 400px;
     float: left;
 }
+
+#BlocNews{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
