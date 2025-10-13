@@ -40,8 +40,19 @@ div{
 }
 
 #BlocNews{
-    background-color: red;
-    width: 150px;
+    position: absolute;
+    display: inline;
+    top: 300px;
     height: 150px;
-    float: right;
+    right: 10px;
+    background-color: red;
+    padding: 10px;
+}
+
+.texteBleu{
+  color: blue;
+}
+
+.texteRouge{
+  color: red;
 }
